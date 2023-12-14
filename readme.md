@@ -14,3 +14,7 @@ YOu have to adjust the file paths according to your machine. The MVTecAD dataset
 ## Contact
 
 If there are any questions, don't hesitate to contact the author: johannes.bassler@outlook.de
+
+## Github
+
+Updates can be found at github.com/uwupl/MA_final
